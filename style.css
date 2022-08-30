@@ -275,7 +275,7 @@ z-index: -1;
     flex-direction: column;
     padding: 50px;
     border-radius: 10px;
-    background-image: url(/img/2.png);
+    background-image: url(img/2.png);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
